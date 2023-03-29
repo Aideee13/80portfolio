@@ -6,19 +6,19 @@ export const projectExperience = [
     name: "Website Design",
     projects: 50,
     icon: HiOutlineDesktopComputer,
-    bg: "#286F6C",
+    bg: "#E6E6FA",
   },
   {
     name: "Mobile App Design",
     projects: 50,
     icon: CiMobile1,
-    bg: "#EEC048",
+    bg: "#E6E6FA",
   },
   {
     name: "Brand Identity",
     projects: 5,
     icon: MdWorkspacesOutline,
-    bg: "#F26440",
+    bg: "#E6E6FA",
   },
 ];
 
